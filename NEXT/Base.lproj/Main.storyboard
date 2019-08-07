@@ -22,10 +22,10 @@
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" hasAttributedTitle="YES" translatesAutoresizingMaskIntoConstraints="NO" id="llb-dW-na8">
-                                <rect key="frame" x="27" y="611.33333333333337" width="360" height="60.333333333333371"/>
+                                <rect key="frame" x="25.666666666666657" y="611.33333333333337" width="363" height="60.333333333333371"/>
                                 <state key="normal">
                                     <attributedString key="attributedTitle">
-                                        <fragment content="Who Got Next?">
+                                        <fragment content="Who Has Next?">
                                             <attributes>
                                                 <color key="NSColor" red="0.7885090708732605" green="0.28804266452789307" blue="0.079164303839206696" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <font key="NSFont" size="48" name="Copperplate-Light"/>
